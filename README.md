@@ -89,7 +89,8 @@ Building things, breaking them sometimes, and learning along the way.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
+- 📧 Email: yourname@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/reeth-jain-rj777
 
 ---
