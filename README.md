@@ -90,7 +90,7 @@ Building things, breaking them sometimes, and learning along the way.
 ---
 
 ## 📫 Contact
-- 📧 Email: yourname@gmail.com
+- 📧 Email: reeth_j@ch.iitr.ac.in
 - 💼 LinkedIn: https://linkedin.com/in/reeth-jain-rj777
 
 ---
