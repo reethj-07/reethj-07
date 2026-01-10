@@ -6,7 +6,7 @@ Building things, breaking them sometimes, and learning along the way.
 ---
 
 ## 🚀 What I Do
-- Build **applied ML and GenAI systems**
+- Build & Deploy **applied ML and GenAI systems**
 - Work on **LLMs, RAG pipelines, and multi-modal models**
 - Focus on **end-to-end AI workflows**, from data to deployment
 
