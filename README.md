@@ -130,7 +130,7 @@ Building production-grade AI systems with focus on Large Language Models, Retrie
 
 ## 📫 Connect
 
-**Email**: [reeth_j@ch.iitr.ac.in](mailto:reeth_j@ch.iitr.ac.in)  
+**Email**: [reeth_j@ch.iitr.ac.in](mailto:reeth_j@ch.iitr.ac.in) [reethjainrj777@gmail.com](mailto:reethjainrj777@gmail.com)  
 **LinkedIn**: [linkedin.com/in/reeth-jain-rj777](https://linkedin.com/in/reeth-jain-rj777)
 
 ---
